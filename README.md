@@ -19,10 +19,11 @@
 
 
 ### 🏃‍♀️ Experience
-GDSC-DGU web/app 1기 <br />
-UMC-DGU web 5기 <br />
-Goorm-Univ front-end 1기 <br />
-DGU 프로그래밍 중앙동아리 Caps 35기 <br />
+GDSC-DGU web/app 1기 진행 중 <br />
+UMC-DGU web 5기 수료 <br />
+UMC-DGU server 6기 진행 중 <br />
+Goorm-Univ front-end 1기 수료 <br />
+DGU 프로그래밍 중앙동아리 Caps 35기 진행 중 <br />
 동국대학교 해커톤 동국톤 1회 기획팀 참여 <br /><br /><br />
 
 
