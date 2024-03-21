@@ -22,7 +22,8 @@
 GDSC-DGU web/app 1기 <br />
 UMC-DGU web 5기 <br />
 Goorm-Univ front-end 1기 <br />
-DGU 프로그래밍 중앙동아리 Caps 35기 <br /><br /><br />
+DGU 프로그래밍 중앙동아리 Caps 35기 <br />
+동국대학교 해커톤 동국톤 1회 기획팀 참여 <br /><br /><br />
 
 
 ##### 성장하는 개발자가 될래요! 💪
