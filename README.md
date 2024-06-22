@@ -1,4 +1,4 @@
-# Hi there 👋 I'm student developer Eunji. 🚀
+# Hi there 👋 I'm Product developer Eunji. 🚀
 
 <br>
 
