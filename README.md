@@ -18,8 +18,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/>
 
 ### 🏆 Award
+2022 동국대학교 어드벤처 디자인 경진대회 장려상 <br />
 2023 구름톤 대상(mooco) <br />
-2023 UMC seoul 해커톤 2등상(carpediem)
+2023 UMC seoul 해커톤 2등상(carpediem) 
 
 
 ### 🏃‍♀️ Experience
@@ -30,8 +31,8 @@ UMC-DGU 7기 부회장 <br />
 Goorm-Univ front-end 1기 <br />
 DGU 프로그래밍 중앙동아리 Caps 35기 <br />
 동국대학교 해커톤 동국톤 1회 기획팀 <br />
-OSSCA - Gemma를 이용한 LLM앱 개발 <br /><br />
-OSSCA - 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 <br /><br />
+OSSCA - Gemma를 이용한 LLM앱 개발 <br />
+OSSCA - 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 <br />
 <br />
 
 
