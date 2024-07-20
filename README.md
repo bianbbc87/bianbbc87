@@ -35,6 +35,9 @@ OSSCA - Gemma를 이용한 LLM앱 개발 <br />
 OSSCA - 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 <br />
 <br />
 
+### 👇 My Log
+https://sparkly-cook-2d0.notion.site/e021b1ab016c4368a0db1f096923ff16?pvs=4
+
 
 ##### 성장하는 개발자가 될래요! 💪
 
