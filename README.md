@@ -21,7 +21,7 @@
 2022 동국대학교 어드벤처 디자인 경진대회 장려상 <br />
 2023 구름톤 대상(mooco) <br />
 2023 UMC seoul 해커톤 2등상(carpediem) <br />
-2024 동국대학교 Camputhon 우수상(short-diary)
+2024 동국대학교 Camputhon 우수상(short-diary) <br />
 2024 재난안전데이터 창업경진대회 지역개발원장상(SafeTrip) <br />
 2024 Junction Hack Surprise Award - Apple Developer Academy(Delavery) 
 
