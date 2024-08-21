@@ -22,7 +22,8 @@
 2023 구름톤 대상(mooco) <br />
 2023 UMC seoul 해커톤 2등상(carpediem) <br />
 2024 동국대학교 Camputhon 우수상(short-diary)
-
+2024 재난안전데이터 창업경진대회 지역개발원장상(SafeTrip) <br />
+2024 Junction Hack Surprise Award - Apple Developer Academy(Delavery) 
 
 ### 🏃‍♀️ Experience
 GDSC-DGU web/app 1기 <br />
@@ -30,10 +31,11 @@ UMC-DGU web 5기 <br />
 UMC-DGU server 6기 <br />
 UMC-DGU 7기 부회장 <br />
 Goorm-Univ front-end 1기 <br />
-DGU 프로그래밍 중앙동아리 Caps 35기 <br />
-동국대학교 해커톤 동국톤 1회 기획팀 <br />
+Goorm-Univ back-end 3기 <br />
 OSSCA - Gemma를 이용한 LLM앱 개발 <br />
 OSSCA - 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 <br />
+DGU 프로그래밍 중앙동아리 Caps 35기 <br />
+동국대학교 해커톤 동국톤 1회 기획팀 <br />
 <br />
 
 ### 👇 My Log
