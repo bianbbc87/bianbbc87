@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Product developer Eunji. 🚀
 
-https://drive.google.com/file/d/159AUa36tgbKAjJ2ILBBVw-0-wJmLUzew/view?usp=sharing
-
 <br>
 
 ### ✍️ My Logs
@@ -45,9 +43,6 @@ https://drive.google.com/file/d/159AUa36tgbKAjJ2ILBBVw-0-wJmLUzew/view?usp=shari
 |  2024.8 ~ | UMC 7기 부회장 |  | 
 |  2024.8 ~ 2024.10 | 그릿지 외주 PM | | 
 <br />
-
-### 👇 My Projects
-https://sparkly-cook-2d0.notion.site/e021b1ab016c4368a0db1f096923ff16?pvs=4
 
 <br />
 <br />
