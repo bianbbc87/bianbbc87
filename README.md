@@ -27,6 +27,9 @@
 |  2024  | 동국대학교 Camputhon | 우수상 | 
 |  2024  | 재난안전데이터 창업경진대회 | 지역개발원장상  | 
 |  2024  | Junction Hack 2024 | Surprise Award - Apple Developer Academy | 
+|  2024  | 공개SW개발자대회 | 우수작 | 
+|  2024  | OSSCA(ArgoCD) | 지역정보통신원장상 | 
+|  2024  | 구름톤 3기 | 우수상 | 
 
 ### 🏃‍♀️ Experience
 |      기간       |          활동         |           내용         |                                                                                                              
@@ -42,6 +45,8 @@
 |  2024.7 ~ 2024.10 | OSSCA 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 |  | 
 |  2024.8 ~ | UMC 7기 부회장 |  | 
 |  2024.8 ~ 2024.10 | 그릿지 외주 PM | | 
+|  2024.6 ~ 2024.11  | Groom Univ 3기 BACKEND | 구름톤 | 
+
 <br />
 
 <br />
