@@ -46,6 +46,9 @@
 |  2024.8 ~ | UMC 7기 부회장 |  | 
 |  2024.8 ~ 2024.10 | 그릿지 외주 PM | | 
 |  2024.6 ~ 2024.11  | Groom Univ 3기 BACKEND | 구름톤 | 
+|  2024.12 ~ 2025.03  | Winter DevCamp (Backend) | Smilegate | 
+|  2025.1 ~   | Enhancements Shadow | Kubernetes | 
+|  2025.2 ~   | 오거나이저 | GDG Campus Korea | 
 
 <br />
 
