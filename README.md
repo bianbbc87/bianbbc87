@@ -43,12 +43,13 @@
 |  2024.3 ~ 2024.7  | UMC-DGU 6기 SERVER | SERVER 스터디, DEMODAY | 
 |  2024.4 ~ 2024.5  | OSSCA Gemma를 이용한 LLM앱 개발 | Gemma를 이용한 에튜테크 앱 기획 | 
 |  2024.7 ~ 2024.10 | OSSCA 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 |  | 
-|  2024.8 ~ | UMC 7기 부회장 |  | 
-|  2024.8 ~ 2024.10 | 그릿지 외주 PM | | 
-|  2024.6 ~ 2024.11  | Groom Univ 3기 BACKEND | 구름톤 | 
-|  2024.12 ~ 2025.03  | Winter DevCamp (Backend) | Smilegate | 
-|  2025.1 ~   | Enhancements Shadow | Kubernetes | 
-|  2025.2 ~   | 오거나이저 | GDG Campus Korea | 
+|  2024.8 ~ 2025.02 | UMC 7기 부회장 | | 
+|  2024.8 ~ 2024.10 | 그릿지 외주 PM | 외주 | 
+|  2024.6 ~ 2024.11  | Groom Univ 3기 BACKEND | 소상공인 선행 플랫폼 "온정" 개발 | 
+|  2024.12 ~ 2025.03  | Winter DevCamp (Backend) | Discord Clone Project, Kurento와 WebRTC를 이용핸 SFU 음성, 화상채팅 구현 | 
+|  2025.1 ~   | Kubernetes Enhancements Shadow | Kubernetes v1.33 Release 지원 | 
+|  2024.1 ~ | UMC 8기 중앙 교육국장 | | 
+|  2025.2 ~   | GDG Campus Korea 오거나이저 | | 
 
 <br />
 
