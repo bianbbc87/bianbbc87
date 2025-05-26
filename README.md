@@ -18,47 +18,6 @@
 ### 📖 Also I leared
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white"/>
 
-### 🏆 Award
-|      년도       |          대회         |           수상         |                                                                                                              
-| :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  2022  | 동국대학교 어드벤처 디자인 경진대회 | 장려상  | 
-|  2023  | 구름톤 1기 | 대상  | 
-|  2023  | UMC Seoul 해커톤 | 2등상  | 
-|  2024  | 동국대학교 Camputhon | 우수상 | 
-|  2024  | 재난안전데이터 창업경진대회 | 지역개발원장상  | 
-|  2024  | Junction Hack 2024 | Surprise Award - Apple Developer Academy | 
-|  2024  | 공개SW개발자대회 | 우수작 | 
-|  2024  | OSSCA(ArgoCD) | 지역정보통신원장상 | 
-|  2024  | 구름톤 3기 | 우수상 | 
-
-### 🏃‍♀️ Experience
-|      기간       |          활동         |           내용         |                                                                                                              
-| :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  2021.5 ~  | 동국대학교 프로그래밍 중앙동아리 CAPS 35기 | React 스터디 진행  | 
-|  2023.3 ~ 2023.9  | 동국대학교 프로그래밍 중앙동아리 CAPS 편집부 | 로고 제작  | 
-|  2023.8 ~ 2024.2  | UMC-DGU 5기 WEB | WEB 스터디, DEMODAY, 해커톤  | 
-|  2023.8 ~ 2024.8  | GDSC-DGU WEB/APP 1기 | 하투-시그널 개발 참여, solution challenge 참여, 파트별 세미나, 해커톤 | 
-|  2023.8 ~ 2023.2  | Groom Univ 1기 FRONTEND | 구름톤, 세미나 | 
-|  2023.10 ~ 2023.11  | 동국톤 1기 기획팀 | 동국톤 기획 참여 | 
-|  2024.3 ~ 2024.7  | UMC-DGU 6기 SERVER | SERVER 스터디, DEMODAY | 
-|  2024.4 ~ 2024.5  | OSSCA Gemma를 이용한 LLM앱 개발 | Gemma를 이용한 에튜테크 앱 기획 | 
-|  2024.7 ~ 2024.10 | OSSCA 쿠버네티스 운영 지원 오픈소스 ArgoCD 컨트리뷰션 | repository 정렬 ui 기여 | 
-|  2024.8 ~ 2025.02 | UMC 7기 부회장 | | 
-|  2024.8 ~ 2024.10 | 그릿지 외주 PM | 외주 | 
-|  2024.6 ~ 2024.11  | Groom Univ 3기 BACKEND | 소상공인 선행 플랫폼 "온정" 개발 | 
-|  2024.12 ~ 2025.03  | Winter DevCamp (Backend) | Discord Clone Project, Kurento와 WebRTC를 이용핸 SFU 음성, 화상채팅 구현 | 
-|  2025.1 ~   | Kubernetes Enhancements Shadow | Kubernetes v1.33 Release 지원 | 
-|  2024.1 ~ | UMC 8기 중앙 교육국장 | | 
-|  2025.2 ~   | GDG Campus Korea 오거나이저 | | 
-
-<br />
-
-<br />
-<br />
-
-
-##### 성장하는 개발자가 될래요! 💪
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bianbbc87&show_icons=true&theme=radical)
 
 <!--
