@@ -2,6 +2,8 @@
 
 <br>
 
+https://zelkovaria.notion.site/48eae67c41f34ecc8e5222e1c8ee196d?pvs=74
+
 ### ✍️ My Logs
 <img src="https://img.shields.io/badge/eunjeepi_20211-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/bian87@dgu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Eunji Jung-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Eunji Jung-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
@@ -26,8 +28,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
-https://zelkovaria.notion.site/48eae67c41f34ecc8e5222e1c8ee196d?pvs=74
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
